@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 name: dash-app-tutorial
 dependencies:
   - python>=3.9
   - pip
   - pip:
+=======
+name: dash-app-tutorial
+dependencies:
+  - python>=3.9
+  - pip
+  - pip:
+>>>>>>> 03d50657ce781f0edd070cb95879d1afe512d424
       - -r requirements.txt

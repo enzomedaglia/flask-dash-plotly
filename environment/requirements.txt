@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Babel
 dash
 dash-bootstrap-components
 pandas
 pandas-stubs
 plotly
+=======
+Babel
+dash
+dash-bootstrap-components
+pandas
+pandas-stubs
+plotly
+>>>>>>> 03d50657ce781f0edd070cb95879d1afe512d424
 python-i18n[YAML]
