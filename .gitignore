@@ -1,0 +1,8 @@
+**/*.pyc
+.coverage
+htmlcov
+**/.DS_Store
+**/*.log
+.vscode
+**/.idea/workspace.xml
+**/.idea/tasks.xml
