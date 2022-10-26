@@ -1,8 +1,9 @@
 """
 
 """
-import datetime as dt
+
 import pandas as pd
+
 
 class DataSchema:
     AMOUNT = "amount"
@@ -19,6 +20,7 @@ def load_transaction_data(path: str) -> pd.DataFrame:
         dtype={
             DataSchema.AMOUNT: float,
             DataSchema.CATEGORY: str,
+            DataSchema.DATE: str,
         },
         parse_dates=[DataSchema.DATE]
     )
